@@ -1,4 +1,4 @@
-# Signal-processing--sampling-quantization-encoding-
+# Signal-processing--sampling-quantization-encoding.
 Simple analog to digital converter
 
 This is a simple MATLAB program, which converts signals from analog format to digital format (bit stream), through
