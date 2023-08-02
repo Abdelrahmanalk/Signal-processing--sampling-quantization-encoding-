@@ -1,8 +1,8 @@
-# Signal-processing--sampling-quantization-encoding.
-Simple analog to digital converter
+# Signal-processing--sampling-quantization-encoding (PCM).
+Simple pulse-code modulation (PCM)
 
 This is a simple MATLAB program, which converts signals from analog format to digital format (bit stream), through
-Three main processes: Sampling-Quantization-Encoding.
+Three main processes that makes the entire PCM process: Sampling-Quantization-Encoding.
  
 Here is an overview of the program:
 
