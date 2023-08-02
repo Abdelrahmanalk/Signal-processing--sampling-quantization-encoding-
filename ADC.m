@@ -1,4 +1,4 @@
-%% Signal construction
+%% Signal Construction
 
 w=20*pi;
 
